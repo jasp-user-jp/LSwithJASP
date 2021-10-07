@@ -17,22 +17,22 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 まだ全ての翻訳が完成しておりません。翻訳が終わり次第，順次公開していきます。
 
 - 本の全体([pdf](pdf/lsj_jp.pdf))
-- Chapter 1: Why do we learn statistics?([pdf](pdf/chapter1.pdf))
-- Chapter 2: A brief introduction to research design([pdf](pdf/chapter2.pdf))
-- Chapter 3: JASP 入門([pdf](pdf/chapter3.pdf))
-- Chapter 4: 記述統計([pdf](pdf/chapter4.pdf))
-- Chapter 5: Drawing graphs ([pdf](pdf/chapter5.pdf))
-- chapter -: Data Handling ([pdf](pdf/chapter6.pdf))
-- Chapter 6: 確率への正体([pdf](pdf/chapter7.pdf))
-- Chapter 7: Estimating unknown quantities from a sample([pdf](pdf/chapter8.pdf))
-- Chapter 8: Hypothesis testing ([pdf](pdf/chapter9.pdf))
+- Chapter 1: Why do we learn statistics?([pdf](pdf/chapter01.pdf))
+- Chapter 2: A brief introduction to research design([pdf](pdf/chapter02.pdf))
+- Chapter 3: JASP 入門([pdf](pdf/chapter03.pdf))
+- Chapter 4: 記述統計([pdf](pdf/chapter04.pdf))
+- Chapter 5: Drawing graphs ([pdf](pdf/chapter05.pdf))
+- chapter -: Data Handling ([pdf](pdf/chapter06.pdf))
+- Chapter 6: 確率への招待([pdf](pdf/chapter07.pdf))
+- Chapter 7: Estimating unknown quantities from a sample([pdf](pdf/chapter08.pdf))
+- Chapter 8: Hypothesis testing ([pdf](pdf/chapter09.pdf))
 - Chapter 9: Categorical data analysis ([pdf](pdf/chapter10.pdf))
 - Chapter 10: 二つの平均の比較 ([pdf](pdf/chapter11.pdf))
 - Chapter 11: Correlation and linear regression ([pdf](pdf/chapter12.pdf))
 - Chapter 12: 平均を比較する (一元配置 ANOVA) ([pdf](pdf/chapter13.pdf))
 - Chapter 13: 多元配置分散分析 ([pdf](pdf/chapter14.pdf))
-- Chapter 14: ベイズ統計学 ([pdf](pdf/chapter15.pdf))
-- Chapter -: Factor Analysis ([pdf](pdf/chapter16.pdf))
+- Chapter -: Factor Analysis ([pdf](pdf/chapter15.pdf))
+- Chapter 14: ベイズ統計学 ([pdf](pdf/chapter16.pdf))
 
 ## この本のサンプルデータ
 
