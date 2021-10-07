@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# JASP で統計を学ぼう！
 
-You can use the [editor on GitHub](https://github.com/jasp-user-jp/LSwithJASP/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## ごあいさつ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+「JASP で統計を学ぼう！」のページへようこそ。
+この本は，心理学系の学生や統計のビギナー向けに用意されたもので，[Danielle J. Navarro](https://compcogscisydney.org/), [David R. Foxcroft](https://www.brookes.ac.uk/templates/pages/staff.aspx?uid=p0072582)，そして[Thomas J. Faulkenberry](https://tomfaulkenberry.github.io/)によって執筆されたものがオリジナルです。オリジナルのサイトは[こちら](https://tomfaulkenberry.github.io/JASPbook/index.html)にあります。
 
-### Markdown
+そもそもこの本は，Navarro, D.J., & Foxcroft, D. R. (2019)の [learning statistics with jamovi: A tutorial for psychology students and other beginners. (Version 0.7).](http://learnstatswithjamovi.com/) DOI: 10.24384/hgc3-7p15. がもとになっており，それの[日本語版](https://bookdown.org/sbtseiji/lswjamoviJ/)もあります。
+これは[Creative Commons CC BY-SA 4.0 ライセンス](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)の元に提供されており，この翻訳版もそれにならうものです。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに関する領域における初学者のための基本的な推測統計を扱っています。
+またフリーソフトウェアパッケージである[JASP](https://jasp-stats.org)を用いて説明しています。生き生きとした会話形式で書かれたこの本は、読みやすさと厳密さの絶妙なバランスを備えており、心理学や行動科学における統計的推論の現代的な見解を読者に提供します。
 
-```markdown
-Syntax highlighted code block
+## この本のダウンロード
 
-# Header 1
-## Header 2
-### Header 3
+この本はフリーな PDF 形式で配布しています。この本全体をダウンロードすることもできますし，特定の章に限ってダウンロードしていただくことも可能です。
 
-- Bulleted
-- List
+## この本のサンプルデータ
 
-1. Numbered
-2. List
+この本で使われているサンプルデータセットは，以下の二つの方法でダウンロードできます。
 
-**Bold** and _Italic_ and `Code` text
+- [ZIP ファイル](https://tomfaulkenberry.github.io/JASPbook/data.zip)をダウンロードしてあなたのコンピュータに保存してください(推奨)
+- 本の[GitHub repository](https://github.com/tomfaulkenberry/JASPbook/tree/master/data)から特定のデータセットを取り込むこともできます。
 
-[Link](url) and ![Image](src)
-```
+## ソースコード
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+この本は LaTeX で書かれています。ソースコードは[Github]で公開します。
 
-### Jekyll Themes
+## あなたのご助力を歓迎します
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasp-user-jp/LSwithJASP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+この本は完全にオープンソースです。つまり，あなたが望む方法で自由に改変することができます(ただし著者に適切なクレジットを与える限りにおいて，です。ライセンス条項を確認してください）。もちろん，この日本語翻訳版で誤字脱字，修正や変更を希望する問題を見つけた場合は，下記連絡先に遠慮なくメールで連絡してください。また，GitHub に Issue を登録していただければ幸いです
 
-### Support or Contact
+## 連絡先
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+この本は JASP ユーザの会の有志が翻訳を担当しています。
+日本語版翻訳の代表者は， 小杉考司(専修大学人間科学部)です。連絡先は kosugi*at_psy.senshu-u.ac.jp です(\_at*をアットマークに変えてください)。
+
+日本語の翻訳にあたっては，次のメンバーが協力してくれています。
