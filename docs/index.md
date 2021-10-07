@@ -14,6 +14,25 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 ## この本のダウンロード
 
 この本はフリーな PDF 形式で配布しています。この本全体をダウンロードすることもできますし，特定の章に限ってダウンロードしていただくことも可能です。
+まだ全ての翻訳が完成しておりません。翻訳が終わり次第，順次公開していきます。
+
+- 本の全体([pdf](pdf/lsj_jp.pdf))
+- Chapter 1: Why do we learn statistics?([pdf](pdf/chapter1.pdf))
+- Chapter 2: A brief introduction to research design([pdf](pdf/chapter2.pdf))
+- Chapter 3: JASP 入門([pdf](pdf/chapter3.pdf))
+- Chapter 4: 記述統計([pdf](pdf/chapter4.pdf))
+- Chapter 5: Drawing graphs ([pdf](pdf/chapter5.pdf))
+- chapter -: Data Handling ([pdf](pdf/chapter6.pdf))
+- Chapter 6: 確率への正体([pdf](pdf/chapter7.pdf))
+- Chapter 7: Estimating unknown quantities from a sample([pdf](pdf/chapter8.pdf))
+- Chapter 8: Hypothesis testing ([pdf](pdf/chapter9.pdf))
+- Chapter 9: Categorical data analysis ([pdf](pdf/chapter10.pdf))
+- Chapter 10: 二つの平均の比較 ([pdf](pdf/chapter11.pdf))
+- Chapter 11: Correlation and linear regression ([pdf](pdf/chapter12.pdf))
+- Chapter 12: 平均を比較する (一元配置 ANOVA) ([pdf](pdf/chapter13.pdf))
+- Chapter 13: 多元配置分散分析 ([pdf](pdf/chapter14.pdf))
+- Chapter 14: ベイズ統計学 ([pdf](pdf/chapter15.pdf))
+- Chapter -: Factor Analysis ([pdf](pdf/chapter16.pdf))
 
 ## この本のサンプルデータ
 
@@ -32,7 +51,20 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 
 ## 連絡先
 
-この本は JASP ユーザの会の有志が翻訳を担当しています。
-日本語版翻訳の代表者は， 小杉考司(専修大学人間科学部)です。連絡先は kosugi*at_psy.senshu-u.ac.jp です(\_at*をアットマークに変えてください)。
+この本は [JASP ユーザの会](https://github.com/jasp-user-jp/jasp-user-jp)の有志が翻訳を担当しています。
+日本語版翻訳の代表者は， 小杉考司(専修大学人間科学部)です。連絡先は kosugi at psy.senshu-u.ac.jp です(\_at\_をアットマークに変えてください)。
 
-日本語の翻訳にあたっては，次のメンバーが協力してくれています。
+日本語の翻訳にあたっては，次のメンバーが協力してくれています(50 音順)。
+
+- 紀ノ定保礼(静岡理工科大学)
+- 国里愛彦(専修大学)
+- 小杉考司(専修大学)
+- 小林穂波(関西学院大学)
+- 五島光
+- 竹林由武(福岡県立医科歯科大学)
+- 徳岡大(高松大学)
+- 難波修史(国立研究開発法人理化学研究所)
+- 北條大樹(東京大学)
+- 平川真(広島大学)
+- 武藤拓之(京都大学 こころの未来研究センター)
+- 山根嵩史(川﨑医療福祉大学)
