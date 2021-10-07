@@ -23,7 +23,7 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 - Chapter 4: 記述統計([pdf](pdf/chapter4.pdf))
 - Chapter 5: Drawing graphs ([pdf](pdf/chapter5.pdf))
 - chapter -: Data Handling ([pdf](pdf/chapter6.pdf))
-- Chapter 6: 確率への正体([pdf](pdf/chapter7.pdf))
+- Chapter 6: 確率への招待([pdf](pdf/chapter7.pdf))
 - Chapter 7: Estimating unknown quantities from a sample([pdf](pdf/chapter8.pdf))
 - Chapter 8: Hypothesis testing ([pdf](pdf/chapter9.pdf))
 - Chapter 9: Categorical data analysis ([pdf](pdf/chapter10.pdf))
