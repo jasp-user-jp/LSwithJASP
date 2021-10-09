@@ -16,6 +16,8 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 この本はフリーな PDF 形式で配布しています。この本全体をダウンロードすることもできますし，特定の章に限ってダウンロードしていただくことも可能です。
 まだ全ての翻訳が完成しておりません。翻訳が終わり次第，順次公開していきます。
 
+{% include_relative versions.md %}
+
 - 本の全体([pdf](pdf/lsj_jp.pdf))
 - Chapter 1: Why do we learn statistics?([pdf](pdf/chapter01.pdf))
 - Chapter 2: A brief introduction to research design([pdf](pdf/chapter02.pdf))
@@ -54,7 +56,7 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 この本は [JASP ユーザの会](https://github.com/jasp-user-jp/jasp-user-jp)の有志が翻訳を担当しています。
 日本語版翻訳の代表者は， 小杉考司(専修大学人間科学部)です。連絡先は kosugi at psy.senshu-u.ac.jp です(\_at\_をアットマークに変えてください)。
 
-日本語の翻訳にあたっては，次のメンバーが協力してくれています(50 音順)。
+日本語の翻訳メンバーは下記の通りです(50 音順)。
 
 - 紀ノ定保礼(静岡理工科大学)
 - 国里愛彦(専修大学)
