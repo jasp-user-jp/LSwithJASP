@@ -16,7 +16,7 @@ JASP で統計を学ぼう！はフリーの教科書で，心理学やそれに
 この本はフリーな PDF 形式で配布しています。この本全体をダウンロードすることもできますし，特定の章に限ってダウンロードしていただくことも可能です。
 まだ全ての翻訳が完成しておりません。翻訳ができているところから，順次公開していきます。
 
-- 本の全体([pdf](pdf/lsj_jp.pdf)
+- 本の全体([pdf](pdf/lsj_jp.pdf))
 - Chapter 1: なぜ統計学を学ぶのでしょう?([pdf](pdf/chapter01.pdf))
 - Chapter 2: A brief introduction to research design([pdf](pdf/chapter02.pdf))
 - Chapter 3: JASP 入門([pdf](pdf/chapter03.pdf))
